@@ -20,7 +20,7 @@ A simple CLI-based tool to track changes in your Git repository in real-time.
 ### Global installation (via npm)
 Once published, users can install it using:
 ```bash
-npm install -g git-visualizer-cli
+npm install -g termgit
 ```
 
 ## Usage
