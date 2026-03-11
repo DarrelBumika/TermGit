@@ -1,4 +1,4 @@
-# Git Real-Time Tracker 🚀
+# TermGIT
 
 A simple CLI-based tool to track changes in your Git repository in real-time.
 
